@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.hea{
+	background-color: #f02a2b;
+	width:100%;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+.header1{
+	background: url(Beach-Wallpaper-Desktop-Background-11-1600x900.jpg);
+	height: 600px;
+	width: 100%;
+}
+ul li a{
+	color: black !important;
+}
+
+.rea{
+	border: 1px solid #c78ad2;
+	text-align: center;
+	width: 110px;
+	height: 110px;
+	background-image: linear-gradient(to right, #c78ad2	,#F79EAC);
+	color: white;
+}
+.imf{
+	background-image:linear-gradient(to right,  pink,green) ;
+	padding: 20px;
+}
+#btn{
+	background-color: transparent;
+	margin-left: 35%;
+	margin-top: 20px;
+	color: white;
+	border-radius: 50px;
+	padding: 10px;
+	border: 1px solid white;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+#btr{
+	background-color: transparent;
+	border: 1px solid white;
+	border-radius: 50px;
+	margin-left: 10px;
+	margin-top: 20px;
+	color: white;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+
+}
+#btr:hover{
+	background-color: white;
+	color: black;
+}
+#btn:hover{
+	background-color: white;
+	color: black;
+}
+#box{
+	position: absolute;
+	border: 1px solid red;
+	top: -5%;
+	left: -6%;
+	background-color:#f02a2b;
+	color: white;
+	width: 45px;
+	height: 30px;
+	margin-left: 16px;
+	margin-top: 9px;
+
+
+}
+hr.one{
+   background: linear-gradient(to right,  blue,red) ;
+   height: 3px;
+
+}
